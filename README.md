@@ -1,5 +1,7 @@
 # Simulador de horários para universidades baseado na maximização da satisfação dos professores
 
+Formulário: https://forms.gle/BitCvG6r1ryRaiZF6
+
 To do:
 
 - [x] Criação da estrutura principal do programa
